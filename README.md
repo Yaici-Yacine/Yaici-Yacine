@@ -13,8 +13,8 @@ I'm passionate about programming, new technologies, and their impact on society.
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, Java
-- Web Frameworks: Spring, React.js
+- Programming Languages: Java,Rust,TypeScript,JavaScript,Python
+- Web Frameworks: Spring, React.js ,AngularJS
 - Databases: MySQL, MongoDB
 - Development Tools: Git, VS Code, Intelij
 
