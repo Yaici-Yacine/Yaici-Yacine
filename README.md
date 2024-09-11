@@ -14,8 +14,8 @@ I'm passionate about programming, new technologies, and their impact on society.
 ## Skills
 
 - Programming Languages: Java,Rust,TypeScript,JavaScript,Python
-- Web Frameworks: Spring, React.js ,AngularJS
-- Databases: MySQL, MongoDB
+- Web Frameworks: Spring, React.js , NextJS , AngularJS
+- Databases: MySQL, MongoDB, PostgreSQL
 - Development Tools: Git, VS Code, Intelij
 
 
